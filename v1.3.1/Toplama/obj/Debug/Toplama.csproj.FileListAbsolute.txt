@@ -1,0 +1,9 @@
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\bin\Debug\Toplama.exe.config
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\bin\Debug\Toplama.exe
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\bin\Debug\Toplama.pdb
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.csprojResolveAssemblyReference.cache
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.frmToplama.resources
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.Properties.Resources.resources
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.csproj.GenerateResource.Cache
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.exe
+C:\Users\Emre Şanlı\Desktop\MUHÖDEV\Yeni klasör\Toplama\Toplama\obj\Debug\Toplama.pdb
